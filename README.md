@@ -1,5 +1,5 @@
 # Microsoft-Virtual-Internship
-## Project Title- **Analyzing using Facial Detection **
+## Project Title- **Analyzing using Facial Detection**
 ## **Problem Statement/Opportunity:**
 * We can use this facial recognition system in identifying a particular person.
 * Helps in grouping of many images of a single person
