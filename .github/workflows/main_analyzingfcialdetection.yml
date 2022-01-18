@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'analyzingfcialdetection'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAA3AA4364EE4C369AED8554C1ADD75F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_784E855574B24184995DCAB075365E25 }}
           package: .
