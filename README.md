@@ -10,5 +10,5 @@
 * The main aim of this project is  to deploy a  trained model with the help of **(Azure cognitive services)** .
 * Its key functions are detecting faces ,analyzing facial features, and can identify if two faces  are similar to one another(validation).
 * It can detect faces and facial features and analyze based on various parameters like (face ,smile,gender,glasses,emotion).
-* Link to vide demonstration of my project -https://drive.google.com/file/d/1eKrMkiW00vpb_QTjmTRT6jPmImwB5_oI/view?usp=sharing
+* Link to video demonstration of my project -https://drive.google.com/file/d/1eKrMkiW00vpb_QTjmTRT6jPmImwB5_oI/view?usp=sharing
 
