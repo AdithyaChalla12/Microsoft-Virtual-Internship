@@ -18,11 +18,14 @@
 * Multitudes of facial attributes can be analyzed with the features provided by Cognitive Service.
 *  Various emotional states from the facial features and expressions can be analyzed.  
 ## Azure Cognitive Service
- * Cognitive Services are a set of machine learning algorithms that Microsoft has developed to solve problems in the field of Artificial Intelligence (AI).
+*Azure Cognitive Services brings the complex artificial intelligence to applications that can easily be integrated or called within our own platforms.
+*with the data platform user in mind, with the built-in charting of query result sets and customizable dashboards. Cognitive Services are a set of machine learning algorithms that Microsoft has developed to solve problems in the field of Artificial Intelligence (AI).
 * The power of this particular Cognitive Services API is that it will allow you to scan your device folders and analyze it by tagging images. 
 * By usinng the the Face API, we can also tag  photos with the names of family members and friends.
 * With the  Emotion API and you can even start tagging the moods of the people in the photos. 
-
+## Deployment using--(Azure Data Studio)
+* Azure Data Studio offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. 
+* It helps with the data platform user in mind, with the built-in charting of query result sets and customizable dashboards.
 
 
 
