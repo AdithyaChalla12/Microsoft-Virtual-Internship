@@ -17,6 +17,11 @@
 * Each face that is detected is assigned a unique ID by the system. We can check the Unique IDs for different faces detected in the image.
 * Multitudes of facial attributes can be analyzed with the features provided by Cognitive Service.
 *  Various emotional states from the facial features and expressions can be analyzed.  
+## Azure Cognitive Service
+ * Cognitive Services are a set of machine learning algorithms that Microsoft has developed to solve problems in the field of Artificial Intelligence (AI).
+* The power of this particular Cognitive Services API is that it will allow you to scan your device folders and analyze it by tagging images. 
+* By usinng the the Face API, we can also tag  photos with the names of family members and friends.
+* With the  Emotion API and you can even start tagging the moods of the people in the photos. 
 
 
 
