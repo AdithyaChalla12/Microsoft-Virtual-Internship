@@ -28,6 +28,3 @@ Cognitive Services are a set of machine learning algorithms that Microsoft has d
 * It helps with the data platform user in mind, with the built-in charting of query result sets and customizable dashboards.
 
 
-
-* Link to video demonstration of my project -https://drive.google.com/file/d/1eKrMkiW00vpb_QTjmTRT6jPmImwB5_oI/view?usp=sharing
-
