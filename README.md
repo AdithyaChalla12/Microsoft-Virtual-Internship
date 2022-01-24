@@ -27,4 +27,4 @@ Cognitive Services are a set of machine learning algorithms that Microsoft has d
 * Azure Data Bricks offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. 
 * It helps with the data platform user in mind, with the built-in charting of query result sets and customizable dashboards.
 
-
+Demo video url of this project-https://drive.google.com/file/d/1bmAtZhc8GDRnkNQqAtABOkhR1FLQPpYv/view?usp=sharing
