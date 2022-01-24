@@ -23,8 +23,8 @@ Cognitive Services are a set of machine learning algorithms that Microsoft has d
 * The power of this particular Cognitive Services API is that it will allow you to scan your device folders and analyze it by tagging images. 
 * By usinng the the Face API, we can also tag  photos with the names of family members and friends.
 * With the  Emotion API and you can even start tagging the moods of the people in the photos. 
-## Deployment using--(Azure Data Studio)
-* Azure Data Studio offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. 
+## Deployment using--(Azure Data Bricks)
+* Azure Data Bricks offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. 
 * It helps with the data platform user in mind, with the built-in charting of query result sets and customizable dashboards.
 
 
